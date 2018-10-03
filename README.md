@@ -10,4 +10,4 @@ Thats all, the script will export all privatekeys converted in WIF format in a n
 
 
 If this helped you, please leave a tip.
-BTC: 
+BTC: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk
