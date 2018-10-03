@@ -8,6 +8,9 @@ Now just run the script >> pkctext.py
 
 Thats all, the script will export all privatekeys converted in WIF format in a new text file with name "list-WIF.txt" in the same directory that you ran the script.
 
+If you need any support, just contact me.
+Reddit: https://www.reddit.com/user/genius360
+Email: geniusprodigy@protonmail.com
 
 If this helped you, please leave a tip.
 BTC: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk
