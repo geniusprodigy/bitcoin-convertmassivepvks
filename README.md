@@ -4,7 +4,7 @@ This tool convert privatekeys bitcoin hexadecimal format to WIF for import on Wa
 Use:
 
 Create a file (.txt) with all privatekeys in hexadecimal format with name for file "brute-pvks.txt". Paste all privatekeys in this file.
-Now just run the script >> pkctext.py
+Now just run the script. python pvkmassconvert.py
 
 Thats all, the script will export all privatekeys converted in WIF format in a new text file with name "list-WIF.txt" in the same directory that you ran the script.
 
