@@ -26,7 +26,7 @@ with open("brute-pvks.txt") as file:
         convert(str.strip(line))
 
 print ("_________________________________")
-print ("Donations for BTC: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk")
+print ("Donations for BTC: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM")
 
 
 
