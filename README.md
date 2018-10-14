@@ -13,4 +13,4 @@ Reddit: https://www.reddit.com/user/genius360
 Email: geniusprodigy@protonmail.com
 
 If this helped you, please leave a tip.
-BTC: 3FQfaUoie5Q1gHe9ye3zumobCMxJNPxrEk
+BTC: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM
