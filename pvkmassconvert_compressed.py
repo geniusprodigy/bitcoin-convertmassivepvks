@@ -30,7 +30,7 @@ print ("Donations for BTC: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM")
 
 
 
-#just run with Python 2.7 for more compatibility
+#just run with Python 3+ for more compatibility
 
 #Usage
 #python.exe pvkmassconvert.py
