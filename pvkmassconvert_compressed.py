@@ -25,8 +25,11 @@ with open("brute-pvks.txt") as file:
         print (str.strip(line))
         convert(str.strip(line))
 
-print ("_________________________________")
-print ("Donations for BTC: 1FTvHvzSNeYHZpJBvFwLy3BtNLGydzwKiM")
+print ("__________________________________________________\n")
+print ("Developed by: ~geniusprodigy")
+print ("My contact on reddit: reddit.com/u/genius360\n")
+print ("If this saved you time or helped, donations please for BTC Address:")
+print ("1FrRd4iZRMU8i2Pbffzkac5u4KwUptmc7S")
 
 
 
